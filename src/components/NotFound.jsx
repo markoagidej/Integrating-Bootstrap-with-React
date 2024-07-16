@@ -19,7 +19,7 @@ const NotFound = () => {
                 </Row>
                 <Row>
                     <Col>
-                        <p>Use the link to the right to return home! -></p>
+                        <p>Use the link to the right to return home! -&gt</p>
                     </Col>
                     <Col>
                         <Link to='/' className='text-decoration-underline'>Return Home</Link>
